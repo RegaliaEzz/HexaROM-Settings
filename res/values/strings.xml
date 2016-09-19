@@ -101,6 +101,7 @@
     <string name="bluetooth_tethering_cannot_connect_while_connected_to_wifi">Unable to use Bluetooth tethering while connected to Wi-Fi network.</string>
     <string name="bluetooth_hid_connection_error_message">Unable to connect device to Bluetooth input device while using it as Bluetooth input device.</string>
     <string name="accessibility_wifi_off">Wifi off.</string>
+
     <string name="accessibility_no_wifi">Wifi disconnected.</string>
     <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
     <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
@@ -5345,6 +5346,7 @@ Before you request a repair under the warranty, Reactivation lock must be disabl
     <string name="privacy_and_safety_settings_title">Privacy and safety</string>
     <string name="home_screen_settings_title">Home screen</string>
     <string name="smart_manager_title">Smart Manager</string>
+
     <string name="edge_screen">Edge screen</string>
     <string name="edge_screen_panels">Edge screen panels</string>
     <string name="edge_lighting">Edge lighting</string>
@@ -6365,4 +6367,12 @@ To ensure the most up-to-date protection, enable automatic updates by accepting 
     <string name="nfc_osaifukeitai_summary_on_clf_not_support_uim">ON : USIM does not support some of the NFC features</string>
     <string name="nfc_osaifukeitai_summary_not_insert_uim">OFF : No USIM Card</string>
     <string name="nfc_osaifukeitai_summary_not_support_uim">OFF : USIM does not support some of the NFC features</string>
+	<string name="device_info">Device Information</string>
+    <string name="rom_info">Information About ROM</string>
+    <string name="rom_name">ROM Name</string>
+    <string name="rom_name_details">HEXA</string>
+    <string name="rom_ver">ROM Version</string>
+    <string name="rom_ver_details">ALARIC</string>
+    <string name="rom_developer">ROM Developer</string>
+    <string name="rom_developer_name">Regalia Ezz</string>
 </resources>

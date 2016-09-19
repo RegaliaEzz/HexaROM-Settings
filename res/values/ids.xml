@@ -144,6 +144,7 @@
     <item type="id" name="op_icon">false</item>
     <item type="id" name="op_name">false</item>
     <item type="id" name="op_time">false</item>
+
     <item type="id" name="switchWidget">false</item>
     <item type="id" name="pager">false</item>
     <item type="id" name="tabs">false</item>
@@ -1704,4 +1705,5 @@
     <item type="id" name="vpn_create">false</item>
     <item type="id" name="vpn_lockdown">false</item>
     <item type="id" name="wifi_wps">false</item>
+	<item type="id" name="dev_settings">false</item>
 </resources>
