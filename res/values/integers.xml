@@ -15,8 +15,8 @@
     <integer name="snap_animation_duration">350</integer>
     <integer name="swipe_scroll_slop">2</integer>
     <integer name="maximum_user_dictionary_word_length">48</integer>
-    <integer name="dashboard_num_columns">1</integer>
-    <integer name="dashboard_favorite_num_columns">3</integer>
+    <integer name="dashboard_num_columns">2</integer>
+    <integer name="dashboard_favorite_num_columns">4</integer>
     <integer name="setup_wizard_transition_duration">300</integer>
     <integer name="preferences_left_pane_weight">4</integer>
     <integer name="preferences_right_pane_weight">6</integer>
