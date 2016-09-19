@@ -6155,7 +6155,7 @@
 
     .line 569
     :cond_22
-    const/16 v25, 0x0
+    const/16 v25, 0x1
 
     goto/16 :goto_f
 
