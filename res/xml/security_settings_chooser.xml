@@ -15,5 +15,6 @@
         <PreferenceScreen android:persistent="false" android:title="@string/find_my_mobile" android:key="find_my_mobile" android:summary="@string/find_my_mobile_summary" android:fragment="com.android.settings.fmm.FindMyMobileSettings" />
         <PreferenceScreen android:persistent="false" android:title="@string/app_ops_settings" android:key="app_ops_settings" android:summary="@string/app_ops_settings_summary" android:fragment="com.android.settings.applications.AppOpsSummary" />
         <SwitchPreference android:persistent="false" android:title="@string/install_applications" android:key="toggle_install_applications" android:summary="@string/install_applications_summary" />
+		<PreferenceScreen android:title="@string/emergency_mode_title" android:key="safetycare_help" android:summary="@string/switch_off_text" android:fragment="com.android.settings.safetycare.SafetyCareEmergencyMode" />
     </PreferenceCategory>
 </PreferenceScreen>
