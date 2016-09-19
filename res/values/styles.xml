@@ -2386,7 +2386,6 @@
         <item name="android:textColor">?android:textColorPrimary</item>
     </style>
     <style name="TimePickerDialogTheme" parent="@touchwiz:style/TwPickerDialogTheme.TimePicker">
-        <item name="touchwiz:timePickerMode">spinner</item>
     </style>
     <style name="SetupWizardStorageStyle" parent="@style/SuwThemeMaterial.Light">
         <item name="android:colorAccent">#ff009688</item>
