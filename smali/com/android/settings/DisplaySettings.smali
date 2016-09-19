@@ -3035,6 +3035,7 @@
 
     .line 1227
     :cond_1
+
     invoke-virtual {p0}, Lcom/android/settings/DisplaySettings;->getContentResolver()Landroid/content/ContentResolver;
 
     move-result-object v1
@@ -6528,13 +6529,7 @@
 
     .line 635
     const-string v25, "display_scaling"
-
-    move-object/from16 v0, p0
-
-    move-object/from16 v1, v25
-
-    invoke-virtual {v0, v1}, Lcom/android/settings/DisplaySettings;->removePreference(Ljava/lang/String;)V
-
+	
     .line 641
     :cond_2c
     :goto_15
